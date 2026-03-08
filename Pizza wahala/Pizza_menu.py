@@ -7,7 +7,7 @@ Small Money          6               2,400
 Big Boys             8               3,000
 Odogwu              12               4,200
 """
-import math
+
 
  
 number_of_people = int(input("Enter number of people: "))
